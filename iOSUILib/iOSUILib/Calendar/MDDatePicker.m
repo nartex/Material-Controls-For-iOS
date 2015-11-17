@@ -28,8 +28,6 @@
 #define kHeaderHeight 190
 
 @interface MDDatePicker ()
-@property(nonatomic) MDCalendarDateHeader *header;
-@property(nonatomic) MDCalendar *calendar;
 @end
 
 @implementation MDDatePicker
